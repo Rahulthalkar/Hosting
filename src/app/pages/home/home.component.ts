@@ -10,4 +10,18 @@ import { HeaderComponent } from "../../header/header.component";
 })
 export class HomeComponent {
 
+    bannerImg=[
+        {
+            id:1,
+            img:'../../../assets/img/banner/7dcc28ed89760319.webp'
+        },
+        {
+            id:1,
+            img:'../../../assets/img/banner/9021283f0be266c1.webp'
+        }, 
+        {
+            id:1,
+            img:'../../../assets/img/banner/ef637eb93bf1a887.webp'
+        }
+    ]
 }
